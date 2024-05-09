@@ -1,4 +1,4 @@
-# Work-portfolio
+# Project-portfolio 
 # CLV Prediction for Auto Insurance:
 This notebook focuses on predicting Customer Lifetime Value (CLV) for auto insurance clients, utilizing various models to analyze data. It includes visual exploratory data analysis, inferential statistics, and multiple final model assessments to optimize prediction accuracy. ​​
 
