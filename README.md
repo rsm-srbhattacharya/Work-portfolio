@@ -11,6 +11,13 @@ This notebook outlines the process of performing real-time inference using an XG
 # XGBoost using SageMaker - Modelling: 
 The notebook describes the setup and execution of a machine learning pipeline using XGBoost and Amazon SageMaker, focusing on model training, hyperparameter tuning, and deployment for real-time inference, including detailed code for each stage.
 
+# Code Text Analysis EDA:
+This notebook undertakes an exploratory data analysis (EDA) on book review data, specifically focusing on text analysis. It utilizes a subset of a larger dataset available from UCSD's data repository, providing insights into patterns and trends within the review texts. ​​
+
+
+
+
+
 
 
 
