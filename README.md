@@ -5,7 +5,7 @@ This notebook focuses on predicting Customer Lifetime Value (CLV) for auto insur
 # Simulation for Decision Making and Optimization - Operations: 
 This notebook details a complex decision-making scenario involving two potential product initiatives with varying cost structures and market potentials. Through simulation, it examines expected profits, cost distributions, pricing strategies, and the trade-offs a brand manager faces to achieve desired profit probabilities, enhancing decision-making in operations management.
 
-# XGBoost using SageMaker - Modelling: 
+# Classification on Amazon SageMaker- Modelling:
 The notebook describes the setup and execution of a machine learning pipeline using XGBoost and Amazon SageMaker, focusing on model training, hyperparameter tuning, and deployment for real-time inference, including detailed code for each stage.
 
 # Classification on Amazon SageMaker - Inference:
